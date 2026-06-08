@@ -67,7 +67,6 @@ const zain = {
 
 ---
 
-## 📊 GitHub Stats
 
 <!-- <div align="center">
 
