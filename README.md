@@ -68,22 +68,11 @@ const zain = {
 ---
 
 
-<!-- <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=zainjaved-ui&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainjaved-ui&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" height="165" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zainjaved-ui&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
-
-</div> -->
-
----
-
-## 🏆 GitHub Trophies
+## 📈 Coding Activity
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zainjaved-ui&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Zain's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zainjaved-ui&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
