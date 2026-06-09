@@ -9,7 +9,7 @@
 ╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝
 ```
 
-### `< MERN Stack & SQL Developer />` · Pakistan 🇵🇰
+### `< MERN Stack & SQL Developer />` 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+things+for+the+web+%F0%9F%9A%80;Full+Stack+%7C+MERN+%7C+SQL+%7C+Python;Turning+ideas+into+real+products;Open+to+collabs+%26+cool+projects+%F0%9F%94%A5)](https://git.io/typing-svg)
 
